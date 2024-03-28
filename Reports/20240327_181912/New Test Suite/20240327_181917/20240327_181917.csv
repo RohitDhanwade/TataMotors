@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,27-03-2024 18:19:24,27-03-2024 18:19:58,34.275s,PASSED
+,,,,,,,
+Test Cases/TC1,,,,27-03-2024 18:19:24,27-03-2024 18:19:58,34.127s,PASSED
+"startApplication(""C:\Users\A\git\TataMotors\Application\app-release (4).apk"", false)",,,,27-03-2024 18:19:24,27-03-2024 18:19:58,33.976s,PASSED

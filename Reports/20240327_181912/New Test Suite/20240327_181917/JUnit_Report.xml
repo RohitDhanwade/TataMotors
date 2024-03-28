@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="34.275" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="34.275" skipped="0" timestamp="27-03-2024T18:19:24" hostname="A - DS005" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value="samsung SM-A032F (Android 13)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\A\\git\\TataMotors\\Reports\\20240327_181912\\New Test Suite\\20240327_181917"/>
+         <property name="logFiles" value="C:\\Users\\A\\git\\TataMotors\\Reports\\20240327_181912\\New Test Suite\\20240327_181917\\appium.log, C:\\Users\\A\\git\\TataMotors\\Reports\\20240327_181912\\New Test Suite\\20240327_181917\\appium_error.log, C:\\Users\\A\\git\\TataMotors\\Reports\\20240327_181912\\New Test Suite\\20240327_181917\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="A - DS005"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="SM-A032F"/>
+         <property name="hostAddress" value="192.168.29.102"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="R9ZT10H9Y2L"/>
+         <property name="deviceName" value="samsung SM-A032F (Android 13)"/>
+         <property name="deviceOSVersion" value="13"/>
+      </properties>
+      <testcase name="Test Cases/TC1" time="34.127" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[27-03-2024T18:19:24 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+27-03-2024T18:19:24 - [TEST_STEP][PASSED] - startApplication("C:\Users\A\git\TataMotors\Application\app-release (4).apk", false): Started app at: 'C:\Users\A\git\TataMotors\Application\app-release (4).apk'
+
+27-03-2024T18:19:24 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+27-03-2024T18:19:34 - [MESSAGE][INFO] - PATH: C:/Users/A/Documents/Applications/Katalon_Studio_Engine_Windows_64-9.3.2/Katalon_Studio_Engine_Windows_64-9.3.2/jre/bin/server;C:/Users/A/Documents/Applications/Katalon_Studio_Engine_Windows_64-9.3.2/Katalon_Studio_Engine_Windows_64-9.3.2/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\A\AppData\Local\Microsoft\WindowsApps;C:\Users\A\AppData\Roaming\npm;C:\Users\A\Documents\Applications\Katalon_Studio_Engine_Windows_64-9.3.2\Katalon_Studio_Engine_Windows_64-9.3.2;:C:\Users\A\Documents\Applications\Katalon_Studio_Engine_Windows_64-9.3.2\Katalon_Studio_Engine_Windows_64-9.3.2\jre\bin
+
+27-03-2024T18:19:34 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\A\AppData\Roaming\npm\node_modules\appium\build\lib\main.js
+
+27-03-2024T18:19:34 - [MESSAGE][INFO] - appium outlog: C:\Users\A\git\TataMotors\Reports\20240327_181912\New Test Suite\20240327_181917\appium.log
+
+27-03-2024T18:19:34 - [MESSAGE][INFO] - appium errlog: C:\Users\A\git\TataMotors\Reports\20240327_181912\New Test Suite\20240327_181917\appium_error.log
+
+27-03-2024T18:19:36 - [MESSAGE][INFO] - Appium server started on port 52,416
+
+27-03-2024T18:19:58 - [MESSAGE][PASSED] - Started app at: 'C:\Users\A\git\TataMotors\Application\app-release (4).apk']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-03-2024T18:19:24 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/TC1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
